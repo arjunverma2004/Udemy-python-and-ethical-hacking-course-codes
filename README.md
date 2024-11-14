@@ -68,8 +68,3 @@ This repository is for educational purposes **only**. The scripts here are inten
 ## Contributing
 
 If you would like to contribute, please fork this repository and submit a pull request with a description of the changes. Contributions are welcome!
-
-
----
-
-This README should give visitors a clear overview and make your project easy to navigate. If you have any other resources, screenshots, or extra notes, you can add them for more depth. Let me know if you'd like any changes!
